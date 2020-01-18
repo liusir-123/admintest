@@ -1,0 +1,17 @@
+/**/
+@import '../base/color.scss';
+$sideBarWidth:210px;
+$navbarHeight:50px;
+$minsize:12px;
+$midsize:14px;
+$bigsize:16px;
+$defultMargin:15px;
+
+:export {
+  navbarHeight: $navbarHeight;
+  sideBarWidth: $sideBarWidth;
+	minsize: $minsize;
+	midsize: $midsize;
+	bigsize: $bigsize;
+}
+ 
